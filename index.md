@@ -6,23 +6,9 @@ title: Mikhail Surin's CV
 Software engineer. Architect. Engineering manager.
 
 <div id="webaddress">
-<a href="to@mhl.su">to@mhl.su</a>
-| <a href="http://mhl.su">My CV page</a>
+<a href="mailto:to@mhl.su">to@mhl.su</a>
+| <a href="http://mhl.su">+7(926)731-00-19</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
@@ -44,21 +30,27 @@ __Ural State Technical University__
 
 
 ## Professional Experience
-`November 2021 — now` __Engineering manager__ at *Kinopoisk*
+`November 2021 — now` __Software Engineering Manager__ at *Kinopoisk*
+
+- Managing OTT sport broadcasting service
+
 
 `May 2020 — November 2021` __Chief Technical Officer__ at *Yandex.Afisha*
 
+- Setting a vision for largest ticket selling operator in Russia
+- Mentoring team members
+- Managing technology budgets
+
+
 `April 2016 — May 2020` __Backend Team Lead__ at *Yandex.Afisha*
 
-- Yandex.Afisha backend development.
+- Team Lead in Yandex.Afisha https://afisha.yandex.ru
+- Architecture refactoring. Switch to microservice infrastructure
+- Python, Flask, Celery, MongoDB
+- Java, Jersey, Spring
 
 
-`November 2014 — April 2016` __Senior Software Developer__ at *Yandex.Tickets*
-
-- Yandex.Tickets backend development.
-
-
-`August 2013 — November 2014` __Software Developer__ at *Yandex.Tickets*
+`August 2013 — April 2016` __Senior Software Developer__ at *Yandex.Tickets*
 
 - Yandex.Tickets backend development.
 - Architecture development, integration of partner services
@@ -69,6 +61,7 @@ __Ural State Technical University__
 
 - http://kassa.rambler.ru
 - ASP.net MVC, MSSQL
+
 
 `March 2012 - July 2012` __Software Developer__ at *McLeod Software*
 
@@ -82,7 +75,7 @@ __Ural State Technical University__
 - ASP.NET MVC3, jQuery, MS SQL, MongoDB
 - Team leader in team of two backend and one frontend developer
 
-##### Achievments
+### Achievments
  - Designed web application architecture for highload
  - Designed database architecture
  - Set up interaction between MSSQL and MongoDB
@@ -93,18 +86,18 @@ __Ural State Technical University__
 - Development of www.yaxon.ru, website for job search.
 - ASP.net AJAX, NHibernate, Lucene+Solr, javascript+jQuery, ActionScript 3
 
-##### Achievements
+### Achievements
   - SOLR-based full-text search engine implementation
   - Integration with OpenID and Facebook-based cross-domain authentication
 
 
 `May 2008 — March 2012` __Freelance developer__
 
-##### Responsibilities:
+### Responsibilities:
   - Creating multimedia flash presentations with silverlight and ActionScript 3
   - Website developing: PHP+Yii, Joomla, Drupal, Django, javascript+jQuery
 
-##### Completed projects:
+### Completed projects:
  - http://www.deliverymaxx.com – ASP.net
  - Flash presentation CD for Water Park Golden Bay in Gelendgik
  - Flash presentation CD for Slavtek corporation
@@ -116,12 +109,12 @@ of western-siberian regions of Russia”
 - Web development
 - ASP.Net, C#, MSSQL, javascript+jQuery, Flash/Flex, FMS, Wowza, Telerik, Silverlight, Java
 
-##### Completed projects:
+### Completed projects:
  - http://artbanc.solareyes.com
  - http://www.interstatefrontage.com
  - Audio recorder at http://www.storypalz.com
 
-`January 2006 — March 2010` __System administrator/Developer__ at *Technotel Ltd., IT support of Gas turbine repair plant*
+`January 2006 — March 2010` __System administrator/Developer__ at *Technotel Ltd.*
 
 - User support, PBX administration, Custom ERP system development using .net with WinForms
 
