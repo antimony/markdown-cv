@@ -10,6 +10,9 @@ Software engineer. Architect. Engineering manager.
 | <a href="http://mhl.su">+7(926)731-00-19</a>
 </div>
 
+## Birthday
+
+8 December 1985
 
 ## Education
 
@@ -114,7 +117,7 @@ of western-siberian regions of Russia”
  - http://www.interstatefrontage.com
  - Audio recorder at http://www.storypalz.com
 
-`January 2006 — March 2010` __System administrator/Developer__ at *Technotel Ltd.*
+`January 2006 — March 2010` __System administrator/Developer__ at *Technotel Ltd., IT support of Gas turbine repair plant*
 
 - User support, PBX administration, Custom ERP system development using .net with WinForms
 
