@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mikhail Surin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mikhail Surin
+Software engineer. Architect. Engineering manager.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="to@mhl.su">to@mhl.su</a>
+| <a href="http://mhl.su">My CV page</a>
 </div>
 
 
@@ -27,65 +27,115 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002 - 2008`
+__Ural State Technical University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Specialist in theoretical physics
 
-- Sizar
+`December 2007`
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Certification in GNU/Linux Administration
 
 
+`January 2012 — March 2012`
+__Ural State Technical University__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Html5 mobile application development
 
 
+## Professional Experience
+`November 2021 — now` __Engineering manager__ at *Kinopoisk*
+
+`May 2020 — November 2021` __Chief Technical Officer__ at *Yandex.Afisha*
+
+`April 2016 — May 2020` __Backend Team Lead__ at *Yandex.Afisha*
+
+- Yandex.Afisha backend development.
+
+
+`November 2014 — April 2016` __Senior Software Developer__ at *Yandex.Tickets*
+
+- Yandex.Tickets backend development.
+
+
+`August 2013 — November 2014` __Software Developer__ at *Yandex.Tickets*
+
+- Yandex.Tickets backend development.
+- Architecture development, integration of partner services
+- Java, MongoDB, Jetty, Spring, Apache CXF
+
+
+`July 2012 — August 2013` __Software Developer__ at *Rambler*
+
+- http://kassa.rambler.ru
+- ASP.net MVC, MSSQL
+
+`March 2012 - July 2012` __Software Developer__ at *McLeod Software*
+
+- Migration from Visual Basic to C#
+- ASP.net, C#, MSSQL, Linq To Sql
+
+
+`August 2011 - March 2012` __Team Lead__ at *WebTeam*
+
+- Development of www.bubblewell.com
+- ASP.NET MVC3, jQuery, MS SQL, MongoDB
+- Team leader in team of two backend and one frontend developer
+
+##### Achievments
+ - Designed web application architecture for highload
+ - Designed database architecture
+ - Set up interaction between MSSQL and MongoDB
+ - Facebook graph interaction
+
+`November 2010 — August 2011` __Web Developer__ at *Yaxon Ltd.*
+
+- Development of www.yaxon.ru, website for job search.
+- ASP.net AJAX, NHibernate, Lucene+Solr, javascript+jQuery, ActionScript 3
+
+##### Achievements
+  - SOLR-based full-text search engine implementation
+  - Integration with OpenID and Facebook-based cross-domain authentication
+
+
+`May 2008 — March 2012` __Freelance developer__
+
+##### Responsibilities:
+  - Creating multimedia flash presentations with silverlight and ActionScript 3
+  - Website developing: PHP+Yii, Joomla, Drupal, Django, javascript+jQuery
+
+##### Completed projects:
+ - http://www.deliverymaxx.com – ASP.net
+ - Flash presentation CD for Water Park Golden Bay in Gelendgik
+ - Flash presentation CD for Slavtek corporation
+ - Flash presentation CD for project “Northern Cryptography. Ornaments of peoples
+of western-siberian regions of Russia”
+
+`May 2008 — November 2010` __Developer__ at *eConsortian LLC*
+
+- Web development
+- ASP.Net, C#, MSSQL, javascript+jQuery, Flash/Flex, FMS, Wowza, Telerik, Silverlight, Java
+
+##### Completed projects:
+ - http://artbanc.solareyes.com
+ - http://www.interstatefrontage.com
+ - Audio recorder at http://www.storypalz.com
+
+`January 2006 — March 2010` __System administrator/Developer__ at *Technotel Ltd., IT support of Gas turbine repair plant*
+
+- User support, PBX administration, Custom ERP system development using .net with WinForms
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2007`
+__Phys. Rev. B__
 
-### Journals
+Yu. Yu. Tsiovkin, M. A. Korotin, A. O. Shorikov, V. I. Anisimov, A. N. Voloshinskii, A. V. Lukoyanov, E. S. Koneva, A. A. Povzner, and M. A. Surin
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Calculation of temperature dependendence of electrical resistivity in the transuranium metals and their alloys
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2022 -->
 
 
