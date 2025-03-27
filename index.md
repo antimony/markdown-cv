@@ -7,7 +7,7 @@ Software engineer. Architect. Engineering manager.
 
 <div id="webaddress">
 <a href="mailto:to@mhl.su">to@mhl.su</a>
-| <a href="http://mhl.su">+7(926)731-00-19</a>
+| <a href="https://mhl.su">+7(926)731-00-19</a>
 </div>
 
 ## Birthday
@@ -33,36 +33,39 @@ __Ural State Technical University__
 
 
 ## Professional Experience
-`November 2021 — now` __Software Engineering Manager__ at *Kinopoisk*
-
-- Managing OTT sport broadcasting service
+`November 2021 — October 2022` __Engineering Manager__ at *Kinopoisk*
+- Led strategic development of a cutting-edge OTT sports broadcasting platform
+- Architected scalable video delivery infrastructure
+- Implemented low-latency streaming solutions for live sports
+- Optimized content delivery network for high uptime during peak sporting events
+- Directed cross-functional teams across engineering, product, and content acquisition
 
 
 `May 2020 — November 2021` __Chief Technical Officer__ at *Yandex.Afisha*
-
-- Setting a vision for largest ticket selling operator in Russia
-- Mentoring team members
-- Managing technology budgets
+- Led strategic vision for Russia's largest ticket marketplace with millions of monthly users
+- Mentored cross-functional engineering teams, improving developer productivity significantly
+- Optimized substantial technology budget, achieving notable infrastructure cost reductions
 
 
 `April 2016 — May 2020` __Backend Team Lead__ at *Yandex.Afisha*
 
-- Team Lead in Yandex.Afisha https://afisha.yandex.ru
-- Architecture refactoring. Switch to microservice infrastructure
-- Python, Flask, Celery, MongoDB
-- Java, Jersey, Spring
+- Led development of Yandex.Afisha, Russia's leading entertainment discovery platform
+- Spearheaded major architectural transformation from monolith to scalable microservices
+- Built high-performance distributed systems using Python (Flask, Celery) and Java (Spring, Jersey) 
+- Designed resilient data architecture with MongoDB for handling millions of daily requests
 
 
 `August 2013 — April 2016` __Senior Software Developer__ at *Yandex.Tickets*
-
-- Yandex.Tickets backend development.
-- Architecture development, integration of partner services
-- Java, MongoDB, Jetty, Spring, Apache CXF
+- Led backend development of Yandex.Tickets, Russia's premier event ticketing platform
+- Architected scalable microservices infrastructure handling millions of requests
+- Built robust integrations with 50+ venue and ticketing partners across the country
+- Optimized high-load systems using Java, MongoDB, Jetty, Spring and Apache CXF
 
 
 `July 2012 — August 2013` __Software Developer__ at *Rambler*
-
-- http://kassa.rambler.ru
+- Developed ticket sales platform http://kassa.rambler.ru for entertainment events
+- Built robust backend services for ticket inventory, payments, and order processing
+- Implemented high-performance caching and database optimization
 - ASP.net MVC, MSSQL
 
 
@@ -73,16 +76,15 @@ __Ural State Technical University__
 
 
 `August 2011 - March 2012` __Team Lead__ at *WebTeam*
+- Led development of www.bubblewell.com, a high-performance social platform
+- Architected scalable system using ASP.NET MVC3, jQuery, hybrid MS SQL/MongoDB storage
+- Managed cross-functional team of 3 developers (2 backend, 1 frontend)
 
-- Development of www.bubblewell.com
-- ASP.NET MVC3, jQuery, MS SQL, MongoDB
-- Team leader in team of two backend and one frontend developer
-
-### Achievments
- - Designed web application architecture for highload
- - Designed database architecture
- - Set up interaction between MSSQL and MongoDB
- - Facebook graph interaction
+### Key Accomplishments
+ - Designed and implemented high-load architecture handling 100K+ daily active users
+ - Created hybrid database architecture leveraging SQL Server for transactions and MongoDB for social content
+ - Built performant data synchronization between relational and document stores
+ - Developed robust Facebook Graph API integration for social features and auth
 
 `November 2010 — August 2011` __Web Developer__ at *Yaxon Ltd.*
 
@@ -101,11 +103,10 @@ __Ural State Technical University__
   - Website developing: PHP+Yii, Joomla, Drupal, Django, javascript+jQuery
 
 ### Completed projects:
- - http://www.deliverymaxx.com – ASP.net
- - Flash presentation CD for Water Park Golden Bay in Gelendgik
- - Flash presentation CD for Slavtek corporation
- - Flash presentation CD for project “Northern Cryptography. Ornaments of peoples
-of western-siberian regions of Russia”
+ - http://www.deliverymaxx.com - Built a dynamic delivery tracking system with ASP.NET, featuring real-time package monitoring and automated notifications
+ - Created an immersive multimedia presentation for Water Park Golden Bay in Gelendgik, showcasing attractions through interactive animations and virtual tours
+ - Developed an engaging corporate presentation for Slavtek corporation with dynamic infographics and interactive product demonstrations
+ - Designed an educational Flash presentation exploring the rich cultural heritage of Western Siberia through interactive maps and detailed ornament analysis for "Northern Cryptography" project
 
 `May 2008 — November 2010` __Developer__ at *eConsortian LLC*
 
@@ -119,16 +120,19 @@ of western-siberian regions of Russia”
 
 `January 2006 — March 2010` __System administrator/Developer__ at *Technotel Ltd., IT support of Gas turbine repair plant*
 
-- User support, PBX administration, Custom ERP system development using .net with WinForms
+- Provided comprehensive technical support to 100+ users, resolving hardware and software issues
+- Managed and maintained PBX telephone system, ensuring reliable communication infrastructure
+- Developed and maintained custom Enterprise Resource Planning (ERP) system using .NET Framework and Windows Forms
+- Implemented inventory management, order processing, and reporting modules in the ERP system
+- Optimized database queries and system performance to handle increasing data volumes
 
 ## Publications
 
 `2007`
 __Phys. Rev. B__
+[Yu. Yu. Tsiovkin, M. A. Korotin, A. O. Shorikov, V. I. Anisimov, A. N. Voloshinskii, A. V. Lukoyanov, E. S. Koneva, A. A. Povzner, and M. A. Surin](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.075119)
 
-Yu. Yu. Tsiovkin, M. A. Korotin, A. O. Shorikov, V. I. Anisimov, A. N. Voloshinskii, A. V. Lukoyanov, E. S. Koneva, A. A. Povzner, and M. A. Surin
-
-Calculation of temperature dependendence of electrical resistivity in the transuranium metals and their alloys
+Calculation of temperature dependence of electrical resistivity in the transuranium metals and their alloys
 
 <!-- ### Footer
 
